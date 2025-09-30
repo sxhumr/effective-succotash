@@ -1,0 +1,21 @@
+# Qt Creator user files
+*.user
+*.user.*
+*.pro.user
+*.qbs.user
+
+# Backup / temp files
+*~
+*.TMP
+
+# Build directories
+build-*/
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.log
+
+# Designer generated files
+ui_*.h
